@@ -1,1 +1,1 @@
-# Cleaning-activity-monitoring-development-
+#「ニューノーマルに向けた加速度計データとRFIDタグを用いた清掃活動認識」
